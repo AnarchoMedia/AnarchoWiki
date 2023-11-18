@@ -11,4 +11,6 @@
 - [Template](https://anarchomedia.github.io/AnarchoWiki/)
 
 ## *Stay tuned for the next apocalypse!*
-- 
+- [Blog](https://anarchomedia.blogspot.com/)
+- [Discord](https://discord.com/invite/xUr5Se99k7)
+- [NeoCities](https://gabethecat.neocities.org/anachomedia)
