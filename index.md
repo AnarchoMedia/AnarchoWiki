@@ -3,6 +3,12 @@
 ![harold.png](https://anarchomedia.github.io/AnarchoMedia-Commons/files/hide-the-pain-harold.jpg)
 *Yes, the creator of this page is Harold.*
 
-## Browse in this fucked up of wiki software
+## Browse in this fucked up wiki software
 ### Help
-- [Introoduction to GFM](https://anarchomedia.github.io/AnarchoWiki/help/gfm)
+- [Introduction to GFM](https://anarchomedia.github.io/AnarchoWiki/help/gfm)
+- [Introduction to HTML](ttps://anarchomedia.github.io/AnarchoWiki/help/html)
+### """Setup and run Anarchowiki"""
+- [Template](https://anarchomedia.github.io/AnarchoWiki/)
+
+## *Stay tuned for the next apocalypse!*
+- 
