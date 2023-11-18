@@ -7,8 +7,9 @@
 ### Help
 - [Introduction to GFM](https://anarchomedia.github.io/AnarchoWiki/help/gfm)
 - [Introduction to HTML](ttps://anarchomedia.github.io/AnarchoWiki/help/html)
+
 ### AnarchoWiki
-- [Template](https://anarchomedia.github.io/AnarchoWiki/)
+- [Template](https://anarchomedia.github.io/AnarchoWiki/template)
 
 ## *Stay tuned for the next apocalypse!*
 - [Blog](https://anarchomedia.blogspot.com/)
