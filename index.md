@@ -4,12 +4,14 @@
 *Yes, the creator of this page is Harold.*
 
 ## Browse in this fucked up wiki software
-### Help
-- [Introduction to GFM](https://anarchomedia.github.io/AnarchoWiki/help/gfm)
-- [Introduction to HTML](ttps://anarchomedia.github.io/AnarchoWiki/help/html)
 
-### AnarchoWiki
-- [Template](https://anarchomedia.github.io/AnarchoWiki/template)
+### [Help](https://anarchomedia.github.io/AnarchoWiki/help)
+- [Introduction to GFM](https://anarchomedia.github.io/AnarchoWiki/help/gfm)
+- [Introduction to HTML](https://anarchomedia.github.io/AnarchoWiki/help/html)
+
+### Documentation
+- [Template](https://anarchomedia.github.io/AnarchoWiki/docs/template)
+- [Naming a page](https://anarchomedia.github.io/AnarchoWiki/docs/names)
 
 ## *Stay tuned for the next apocalypse!*
 - [Blog](https://anarchomedia.blogspot.com/)
