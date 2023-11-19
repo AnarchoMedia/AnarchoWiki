@@ -10,7 +10,7 @@
 - [Naming a page](https://anarchomedia.github.io/AnarchoWiki/docs/names)
 
 ## Other cool as f links
-- [GFM Cheatsheet](https://docs.github.com/get-started/writing-on-github)
+- [GFM Cheatsheet](https://docs.github.com/en/get-started/writing-on-github)
 - [HTML Cheatsheet (W3C version)](https://html.spec.whatwg.org/multipage/)
 
 ## *Stay tuned for the next apocalypse!*
