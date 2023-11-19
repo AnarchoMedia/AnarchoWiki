@@ -5,13 +5,13 @@
 
 ## Browse in this fucked up wiki software
 
-### [Help](https://anarchomedia.github.io/AnarchoWiki/help)
-- [Introduction to GFM](https://anarchomedia.github.io/AnarchoWiki/help/gfm)
-- [Introduction to HTML](https://anarchomedia.github.io/AnarchoWiki/help/html)
-
 ### Documentation
 - [Template](https://anarchomedia.github.io/AnarchoWiki/docs/template)
 - [Naming a page](https://anarchomedia.github.io/AnarchoWiki/docs/names)
+
+## Other cool as f links
+- [GFM Cheatsheet](https://docs.github.com/es/get-started/writing-on-github)
+- [HTML Cheatsheet (W3C version)](https://html.spec.whatwg.org/multipage/)
 
 ## *Stay tuned for the next apocalypse!*
 - [Blog](https://anarchomedia.blogspot.com/)
