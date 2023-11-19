@@ -13,7 +13,7 @@ In GFM you can make more things than in normal Markdown, for example, `:clown_fa
 | Bold and italic | `***bold & italic***` | ***bold & italic*** |
 | Escape GFM Markup | `\*no gfm \*\*markup\*\*\*` | \*no gfm \*\*markup\*\*\* |
 
-### Section formatting (only at beggining of the title)
+### Section formatting
 
 | Description | You type | You get |
 |:---:|:---:|:---:|
