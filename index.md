@@ -1,6 +1,6 @@
 # MediaWiki Pt. II
 
-![harold.png](https://anarchomedia.github.io/AnarchoMedia-Commons/files/hide-the-pain-harold.jpg)
+![harold.png](https://anarchomedia.github.io/AnarchoMedia-Commons/file/hide-the-pain-harold.jpg)
 *Yes, the creator of this page is Harold.*
 
 ## Browse in this fucked up wiki software
