@@ -9,7 +9,7 @@
 - [Template](https://anarchomedia.github.io/AnarchoWiki/docs/template)
 - [Naming a page](https://anarchomedia.github.io/AnarchoWiki/docs/names)
 
-## Other cool as f links
+## Documentation
 - [GFM Cheatsheet](https://docs.github.com/en/get-started/writing-on-github)
 - [HTML Cheatsheet (W3C version)](https://html.spec.whatwg.org/multipage/)
 
