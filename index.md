@@ -5,11 +5,11 @@
 
 ## Browse in this fucked up wiki software
 
-### Documentation
+## Documentation
 - [Template](https://anarchomedia.github.io/AnarchoWiki/docs/template)
 - [Naming a page](https://anarchomedia.github.io/AnarchoWiki/docs/names)
 
-## Documentation
+## Some other links
 - [GFM Cheatsheet](https://docs.github.com/en/get-started/writing-on-github)
 - [HTML Cheatsheet (W3C version)](https://html.spec.whatwg.org/multipage/)
 
